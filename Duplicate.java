@@ -1,3 +1,8 @@
+// There is only one repeated number in nums, return this repeated number
+// Example:
+// Input: nums = [1,3,4,2,2]
+// Output: 2
+
 package Ararys;
 
 import java.util.*; 
